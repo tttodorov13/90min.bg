@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elements Free\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-19 16:22:25 UTC\n"
+"PO-Revision-Date: 2014-02-11 15:17+0530\n"
+"Last-Translator: Surya <surya@cyberchimps.com>\n"
+"Language-Team: Hindi, India\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+#: ../../init.php
+msgid "Boxes Lite"
+msgstr "बक्से लाइट"
+
+#: ../../init.php
+msgid "Portfolio Lite"
+msgstr "Not Ranked पोर्टफोलियो लाइट"
+
+#: ../../init.php
+msgid "Post Page"
+msgstr "पोस्ट पेज"
+
+#: ../../init.php
+msgid "Slider Lite"
+msgstr "स्लाइडर लाइट"
+
+#: ../../init.php
+msgid "Page"
+msgstr "पृष्ठ"
+
+#: ../../init.php
+msgid "Responsive Add Features"
+msgstr "उत्तरदायी सुविधाएँ जोड़ें"
+
+#: ../../init.php
+msgid "Activate Add Ons"
+msgstr "सक्रिय Ons जोड़ें"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Installing Plugin: %s"
+msgstr "प्लगइन स्थापित करना: %s"
+
+#: ../../init.php
+msgid "Something went wrong with the plugin API."
+msgstr "कुछ प्लगइन एपीआई के साथ गलत हो गया था।"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Return to Required Plugins Installer"
+msgstr "लौटने के लिए आवश्यक Plugins इंस्टॉलर"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin activated successfully."
+msgstr "सफलतापूर्वक सक्रिय प्लगइन।"
+
+#: ../../init.php
+msgid "All plugins installed and activated successfully. %s"
+msgstr "सभी plugins स्थापित किया है और सफलतापूर्वक सक्रिय कर दिया। %s"
+
+#: ../../parallax.php
+msgid "Parallax"
+msgstr "लंबन"
+
+#: ../../parallax.php
+msgid "Background image for parallax"
+msgstr "लंबन के लिए पृष्ठभूमि छवि"
+
+#: ../../parallax.php
+msgid "Enter URL or upload file"
+msgstr "URL दर्ज करें या फाइल अपलोड करें"
+
+#: ../../parallax.php
+msgid ""
+"Set the background image at Appearance > Background to get parallax effect "
+"on whole body."
+msgstr "पृष्ठभूमि छवि सेट में उपस्थिति के > पृष्ठभूमि लंबन प्रभाव पूरे शरीर पर पाने के लिए।"
+
+#: ../../portfolio-lite.php
+msgid "First Portfolio Image"
+msgstr "पोर्टफोलियो लाइट"
+
+#: ../../portfolio-lite.php
+msgid "First Portfolio Image Caption"
+msgstr "पहली पोर्टफोलियो छवि कैप्शन"
+
+#: ../../portfolio-lite.php
+msgid "Image 1"
+msgstr "छवि 1"
+
+#: ../../portfolio-lite.php
+msgid "First Porfolio Link"
+msgstr "पोर्टफोलियो लाइट"
+
+#: ../../portfolio-lite.php
+msgid "Link URL"
+msgstr "लिंक यूआरएल"
+
+#: ../../portfolio-lite.php
+msgid "Second Portfolio Image"
+msgstr "पोर्टफोलियो लाइट"
+
+#: ../../portfolio-lite.php
+msgid "Second Portfolio Image Caption"
+msgstr "दूसरा पोर्टफोलियो छवि कैप्शन"
+
+#: ../../portfolio-lite.php
+msgid "Image 2"
+msgstr "छवि 2"
+
+#: ../../portfolio-lite.php
+msgid "Second Porfolio Link"
+msgstr "पोर्टफोलियो लाइट"
+
+#: ../../portfolio-lite.php
+msgid "Third Portfolio Image"
+msgstr "पोर्टफोलियो लाइट"
+
+#: ../../portfolio-lite.php
+msgid "Third Portfolio Image Caption"
+msgstr "तीसरे पोर्टफोलियो छवि कैप्शन"
+
+#: ../../portfolio-lite.php
+msgid "Image 3"
+msgstr "छवि 3"
+
+#: ../../portfolio-lite.php
+msgid "Third Porfolio Link"
+msgstr "पोर्टफोलियो लाइट"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Portfolio Image"
+msgstr "पोर्टफोलियो लाइट"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Portfolio Image Caption"
+msgstr "चौथे पोर्टफोलियो छवि कैप्शन"
+
+#: ../../portfolio-lite.php
+msgid "Image 4"
+msgstr "छवि 4"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Porfolio Link"
+msgstr "पोर्टफोलियो लाइट"
+
+#: ../../portfolio-lite.php
+msgid "Portfolio Lite Options"
+msgstr "पोर्टफोलियो लाइट"
+
+#: ../../slider-lite.php
+msgid "Slide One Image"
+msgstr "एक छवि स्लाइड"
+
+#: ../../slider-lite.php
+msgid "Slide One Link"
+msgstr "स्लाइडर लाइट"
+
+#: ../../slider-lite.php
+msgid "Slide Two Image"
+msgstr "दो छवि स्लाइड"
+
+#: ../../slider-lite.php
+msgid "Slide Two Link"
+msgstr "स्लाइडर लाइट"
+
+#: ../../slider-lite.php
+msgid "Slide Three Image"
+msgstr "तीन छवि स्लाइड"
+
+#: ../../slider-lite.php
+msgid "Slide Three Link"
+msgstr "स्लाइडर लाइट"
+
+#: ../../slider-lite.php
+msgid "Slider Lite Options"
+msgstr "स्लाइडर लाइट"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install Required Plugins"
+msgstr "आवश्यक Plugins स्थापित करें"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install Plugins"
+msgstr "Plugins स्थापित करें"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Something went wrong."
+msgstr "कुछ गलत हो गया था।"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Return to the dashboard"
+msgstr "डैशबोर्ड में लौटें"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "सभी plugins स्थापित किया है और सफलतापूर्वक सक्रिय कर दिया। %1$ s"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Dismiss this notice"
+msgstr "इस नोटिस को खारिज"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "External Link"
+msgstr "बाहरी लिंक"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Private Repository"
+msgstr "निजी भंडार"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Pre-Packaged"
+msgstr "पूर्व पैक"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "WordPress Repository"
+msgstr "WordPress भण्डार"
+
+msgid "Required"
+msgstr "(आवश्यक)"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Recommended"
+msgstr "की सिफारिश की"
+
+msgid "Not Installed"
+msgstr "िवडीयो"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installed But Not Activated"
+msgstr "लेकिन नहीं सक्रिय स्थापित"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"कोई plugins स्थापित करें या सक्रिय करने के लिए। <a href=\"%1$s\" title=\"Return to "
+"the Dashboard\"> डैशबोर्ड में लौटें</a>"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin"
+msgstr "प्लगइन"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Source"
+msgstr "स्रोत"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Type"
+msgstr "टाइप"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Status"
+msgstr "फैल"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install"
+msgstr "स्थापित करना"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Activate"
+msgstr "सक्रिय करें"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install package not available."
+msgstr "स्थापित पैकेज उपलब्ध नहीं है।"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "<span class=\"code\"> %s</span> से पैकेज स्थापित करें डाउनलोड …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Unpacking the package&#8230;"
+msgstr "पैकेज unpacking …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing the plugin&#8230;"
+msgstr "प्लगइन स्थापित करना …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin install failed."
+msgstr "प्लगइन स्थापित करने में विफल।"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin installed successfully."
+msgstr "सफलतापूर्वक स्थापित प्लगइन।"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin activation failed."
+msgstr "प्लगइन सक्रियकरण विफल रहा।"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"की स्थापना और सक्रियण प्रक्रिया शुरू होता है। इस प्रक्रिया पर कुछ मेजबान, कुछ समय लग सकते "
+"हैं तो कृपया धैर्य रखें।"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "%1$s installed and activated successfully."
+msgstr "%1$ s स्थापित और सफलतापूर्वक सक्रिय कर दिया।"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Show Details"
+msgstr "गीत-सूची"
+
+msgid "Hide Details"
+msgstr "विवरण छुपाएँ"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All installations and activations have been completed."
+msgstr "सभी प्रतिष्ठानों और activations पूरा हो गया है।"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "स्थापित और सक्रिय प्लगइन %1$ s (% 2$d/%3$d)"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"स्थापना प्रक्रिया शुरू होता है। इस प्रक्रिया पर कुछ मेजबान, कुछ समय लग सकते हैं तो कृपया "
+"धैर्य रखें।"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$ S: <strong>%2$ s</strong> स्थापित करते समय कोई त्रुटि उत्पन्न हुई।"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "The installation of %1$s failed."
+msgstr "%1$ S की स्थापना विफल।"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "%1$s installed successfully."
+msgstr "%1$ s सफलतापूर्वक स्थापित।"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All installations have been completed."
+msgstr "सभी प्रतिष्ठान पूरा कर लिया गया है।"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "प्लगइन %1$ s (% 2$d/%3$d) की स्थापना"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Return to the Dashboard"
+msgstr "डैशबोर्ड में लौटें"

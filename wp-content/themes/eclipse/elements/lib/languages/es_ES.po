@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elements Free\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-19 16:22:25 UTC\n"
+"PO-Revision-Date: 2014-02-11 15:17+0530\n"
+"Last-Translator: Surya <surya@cyberchimps.com>\n"
+"Language-Team: Spanish, Spain\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ../../init.php
+msgid "Boxes Lite"
+msgstr "Cajas Lite"
+
+#: ../../init.php
+msgid "Portfolio Lite"
+msgstr "Cartera Lite"
+
+#: ../../init.php
+msgid "Post Page"
+msgstr "Publica página"
+
+#: ../../init.php
+msgid "Slider Lite"
+msgstr "Deslizador Lite"
+
+#: ../../init.php
+msgid "Page"
+msgstr "Ritmo"
+
+#: ../../init.php
+msgid "Responsive Add Features"
+msgstr "Responsivo añadir características"
+
+#: ../../init.php
+msgid "Activate Add Ons"
+msgstr "Activar Add Ons"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Installing Plugin: %s"
+msgstr "Instalar Plugin: %s"
+
+#: ../../init.php
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con el plugin API."
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de Plugins requiere"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin activated successfully."
+msgstr "Plugin activado con éxito."
+
+#: ../../init.php
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins instalado y activado con éxito. %s"
+
+#: ../../parallax.php
+msgid "Parallax"
+msgstr "Paralaje"
+
+#: ../../parallax.php
+msgid "Background image for parallax"
+msgstr "Imagen de fondo para paralaje"
+
+#: ../../parallax.php
+msgid "Enter URL or upload file"
+msgstr "Introduzca la URL o subir archivo"
+
+#: ../../parallax.php
+msgid ""
+"Set the background image at Appearance > Background to get parallax effect "
+"on whole body."
+msgstr ""
+"Establecer la imagen de fondo en el aspecto > fondo para conseguir el efecto "
+"de paralaje en todo el cuerpo."
+
+#: ../../portfolio-lite.php
+msgid "First Portfolio Image"
+msgstr "Cartera Lite"
+
+#: ../../portfolio-lite.php
+msgid "First Portfolio Image Caption"
+msgstr "Cartera First Pie de foto"
+
+#: ../../portfolio-lite.php
+msgid "Image 1"
+msgstr "Imagen 1"
+
+#: ../../portfolio-lite.php
+msgid "First Porfolio Link"
+msgstr "Cartera Lite"
+
+#: ../../portfolio-lite.php
+msgid "Link URL"
+msgstr "URL:"
+
+#: ../../portfolio-lite.php
+msgid "Second Portfolio Image"
+msgstr "Cartera Lite"
+
+#: ../../portfolio-lite.php
+msgid "Second Portfolio Image Caption"
+msgstr "Segunda foto de cartera"
+
+#: ../../portfolio-lite.php
+msgid "Image 2"
+msgstr "Imagen 2"
+
+#: ../../portfolio-lite.php
+msgid "Second Porfolio Link"
+msgstr "Cartera Lite"
+
+#: ../../portfolio-lite.php
+msgid "Third Portfolio Image"
+msgstr "Cartera Lite"
+
+#: ../../portfolio-lite.php
+msgid "Third Portfolio Image Caption"
+msgstr "Tercera Foto de cartera"
+
+#: ../../portfolio-lite.php
+msgid "Image 3"
+msgstr "Imagen 3"
+
+#: ../../portfolio-lite.php
+msgid "Third Porfolio Link"
+msgstr "Cartera Lite"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Portfolio Image"
+msgstr "Cartera Lite"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Portfolio Image Caption"
+msgstr "Cuarta foto de cartera"
+
+#: ../../portfolio-lite.php
+msgid "Image 4"
+msgstr "Imagen 4"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Porfolio Link"
+msgstr "Cartera Lite"
+
+#: ../../portfolio-lite.php
+msgid "Portfolio Lite Options"
+msgstr "Cartera Lite"
+
+#: ../../slider-lite.php
+msgid "Slide One Image"
+msgstr "Deslice una imagen"
+
+#: ../../slider-lite.php
+msgid "Slide One Link"
+msgstr "Deslizador Lite"
+
+#: ../../slider-lite.php
+msgid "Slide Two Image"
+msgstr "Deslice dos imágenes"
+
+#: ../../slider-lite.php
+msgid "Slide Two Link"
+msgstr "Deslizador Lite"
+
+#: ../../slider-lite.php
+msgid "Slide Three Image"
+msgstr "Deslice Tres de imagen"
+
+#: ../../slider-lite.php
+msgid "Slide Three Link"
+msgstr "Deslizador Lite"
+
+#: ../../slider-lite.php
+msgid "Slider Lite Options"
+msgstr "Deslizador Lite"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins requiere"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Something went wrong."
+msgstr "Algo salió mal."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Return to the dashboard"
+msgstr "Volver al tablero"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalado y activado con éxito. %1$ s"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Dismiss this notice"
+msgstr "Despedir este aviso"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "External Link"
+msgstr "Enlace externo"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Private Repository"
+msgstr "Repositorio privado"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Pre-Packaged"
+msgstr "Pre envasados"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Required"
+msgstr "Necesario"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Recommended"
+msgstr "RECOMENDADO"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Not Installed"
+msgstr "No instalada"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No hay plugins para instalar o activar. <a href=\"%1$s\" title=\"Return to "
+"the Dashboard\"> volver al tablero</a>"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Source"
+msgstr "Fuente"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Type"
+msgstr "Tipo"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Status"
+msgstr "Estado"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install"
+msgstr "Instalar"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Activate"
+msgstr "Activar"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install package not available."
+msgstr "Instale el paquete no está disponible."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Descargar instalar paquete de <span class=\"code\"> %s</span> …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Unpacking the package&#8230;"
+msgstr "Desempaquetar el paquete …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing the plugin&#8230;"
+msgstr "Instalar el plugin …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin install failed."
+msgstr "Instalación del plugin ha fallado."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado con éxito."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin activation failed."
+msgstr "Activación del plugin fallada."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Comienza el proceso de instalación y activación. Este proceso puede tardar "
+"un poco en algunos ejércitos, así que por favor sea paciente."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "%1$s installed and activated successfully."
+msgstr "%1$ s instalado y activado con éxito."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Show Details"
+msgstr "Ver detalles"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All installations and activations have been completed."
+msgstr "Se han completado todas las instalaciones y activaciones."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalar y activar el Plugin %1$ s (% 2$d/%3$d)"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Comienza el proceso de instalación. Este proceso puede tardar un poco en "
+"algunos ejércitos, así que por favor sea paciente."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Se ha producido un error durante la instalación de %1$ s: <strong>%2$ s</"
+"strong>."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$ s falló."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "%1$s installed successfully."
+msgstr "%1$ s instalado con éxito."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All installations have been completed."
+msgstr "Se han completado todas las instalaciones."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalar Plugin %1$ s (% 2$d/%3$d)"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Return to the Dashboard"
+msgstr "Volver al tablero"

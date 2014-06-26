@@ -1,0 +1,424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elements Free\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-19 16:22:25 UTC\n"
+"PO-Revision-Date: 2014-02-11 15:17+0530\n"
+"Last-Translator: Surya <surya@cyberchimps.com>\n"
+"Language-Team: Norwegian Bokmål, Norway\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ../../init.php
+msgid "Boxes Lite"
+msgstr "Bokser Lite"
+
+#: ../../init.php
+msgid "Portfolio Lite"
+msgstr "Portefølje Lite"
+
+#: ../../init.php
+msgid "Post Page"
+msgstr "Innlegg"
+
+#: ../../init.php
+msgid "Slider Lite"
+msgstr "Lysbilder Lite"
+
+#: ../../init.php
+msgid "Page"
+msgstr "Side"
+
+#: ../../init.php
+msgid "Responsive Add Features"
+msgstr "Lydhør legge funksjoner"
+
+#: ../../init.php
+msgid "Activate Add Ons"
+msgstr "Aktivere tillegg"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Installing Plugin: %s"
+msgstr "Installere Plugin: %s"
+
+#: ../../init.php
+msgid "Something went wrong with the plugin API."
+msgstr "Noe gikk galt med plugg API."
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Return to Required Plugins Installer"
+msgstr "Gå tilbake til nødvendige Plugins installert"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin activated successfully."
+msgstr "Plugin aktivert."
+
+#: ../../init.php
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alle plugins installert og aktivert. %s"
+
+#: ../../parallax.php
+msgid "Parallax"
+msgstr "Parallakse"
+
+#: ../../parallax.php
+msgid "Background image for parallax"
+msgstr "Bakgrunnsbilde for parallakse"
+
+#: ../../parallax.php
+msgid "Enter URL or upload file"
+msgstr "Angi URL eller Last opp fil"
+
+#: ../../parallax.php
+msgid ""
+"Set the background image at Appearance > Background to get parallax effect "
+"on whole body."
+msgstr ""
+"Angi bakgrunnsbildet på utseende > bakgrunn å få parallakse effekt på hele "
+"kroppen."
+
+#: ../../portfolio-lite.php
+msgid "First Portfolio Image"
+msgstr "Portefølje Lite"
+
+#: ../../portfolio-lite.php
+msgid "First Portfolio Image Caption"
+msgstr "Første portefølje, bildetekst"
+
+#: ../../portfolio-lite.php
+msgid "Image 1"
+msgstr "Bilde 1"
+
+#: ../../portfolio-lite.php
+msgid "First Porfolio Link"
+msgstr "Portefølje Lite"
+
+#: ../../portfolio-lite.php
+msgid "Link URL"
+msgstr "Lenke-URL"
+
+#: ../../portfolio-lite.php
+msgid "Second Portfolio Image"
+msgstr "Portefølje Lite"
+
+#: ../../portfolio-lite.php
+msgid "Second Portfolio Image Caption"
+msgstr "Andre portefølje, bildetekst"
+
+#: ../../portfolio-lite.php
+msgid "Image 2"
+msgstr "Bilde 2"
+
+#: ../../portfolio-lite.php
+msgid "Second Porfolio Link"
+msgstr "Portefølje Lite"
+
+#: ../../portfolio-lite.php
+msgid "Third Portfolio Image"
+msgstr "Portefølje Lite"
+
+#: ../../portfolio-lite.php
+msgid "Third Portfolio Image Caption"
+msgstr "Tredje portefølje, bildetekst"
+
+#: ../../portfolio-lite.php
+msgid "Image 3"
+msgstr "Bilde 3"
+
+#: ../../portfolio-lite.php
+msgid "Third Porfolio Link"
+msgstr "Portefølje Lite"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Portfolio Image"
+msgstr "Portefølje Lite"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Portfolio Image Caption"
+msgstr "Fjerde portefølje, bildetekst"
+
+#: ../../portfolio-lite.php
+msgid "Image 4"
+msgstr "Bilde 4"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Porfolio Link"
+msgstr "Portefølje Lite"
+
+#: ../../portfolio-lite.php
+msgid "Portfolio Lite Options"
+msgstr "Portefølje Lite"
+
+#: ../../slider-lite.php
+msgid "Slide One Image"
+msgstr "Skyv ett bilde"
+
+#: ../../slider-lite.php
+msgid "Slide One Link"
+msgstr "Lysbilder Lite"
+
+#: ../../slider-lite.php
+msgid "Slide Two Image"
+msgstr "Slide To Bilde"
+
+#: ../../slider-lite.php
+msgid "Slide Two Link"
+msgstr "Lysbilder Lite"
+
+#: ../../slider-lite.php
+msgid "Slide Three Image"
+msgstr "Skyv Tre Bilde"
+
+#: ../../slider-lite.php
+msgid "Slide Three Link"
+msgstr "Lysbilder Lite"
+
+#: ../../slider-lite.php
+msgid "Slider Lite Options"
+msgstr "Lysbilder Lite"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install Required Plugins"
+msgstr "Installere nødvendige Plugins"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install Plugins"
+msgstr "Installere Plugins"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Something went wrong."
+msgstr "Noe gikk galt."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Return to the dashboard"
+msgstr "Tilbake til oversikten"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins installert og aktivert. %1$ s"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Dismiss this notice"
+msgstr "Avvise denne"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "External Link"
+msgstr "Ekstern lenke"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Private Repository"
+msgstr "Private depotet"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Pre-Packaged"
+msgstr "Pre-pakket"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "WordPress Repository"
+msgstr "WordPress depotet"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Required"
+msgstr "Kreves"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Recommended"
+msgstr "Anbefalt"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Not Installed"
+msgstr "Ikke installert"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installed But Not Activated"
+msgstr "Installert, men ikke aktivert"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Ingen plugins å installere eller aktivere. <a href=\"%1$s\" title=\"Return "
+"to the Dashboard\"> tilbake til oversikten</a>"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Source"
+msgstr "Kilde"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Type"
+msgstr "Disktype"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Status"
+msgstr "_Innstillinger"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install"
+msgstr "Installér"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Activate"
+msgstr "Aktivere"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install package not available."
+msgstr "Installer pakken ikke er tilgjengelig."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Dataoverfører installere pakke fra <span class=\"code\"> %s</span> …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Unpacking the package&#8230;"
+msgstr "Utpakking pakken …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing the plugin&#8230;"
+msgstr "Installerer plugin …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin install failed."
+msgstr "Plugin installert mislyktes."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin installed successfully."
+msgstr "Plugin installert."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin activation failed."
+msgstr "Plugin-aktivering mislyktes."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Installasjon og aktivisering prosessen starter. Denne prosessen kan ta litt "
+"tid på noen verter, så vær tålmodig."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "%1$s installed and activated successfully."
+msgstr "%1$ s installert og aktivert."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Show Details"
+msgstr "Slett"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Hide Details"
+msgstr "Skjul detaljer"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All installations and activations have been completed."
+msgstr "Alle installasjoner og aktiveringer er fullført."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installere og aktivere Plugin %1$ s (% 2$d/%3$d)"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Installasjonsprosessen begynner. Denne prosessen kan ta litt tid på noen "
+"verter, så vær tålmodig."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Det oppstod en feil under installasjon av %1$ s: <strong>%2$ s</strong>."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "The installation of %1$s failed."
+msgstr "Installasjonen av %1$ s mislyktes."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "%1$s installed successfully."
+msgstr "%1$ s installert."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All installations have been completed."
+msgstr "Alle installasjoner er fullført."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installere Plugin %1$ s (% 2$d/%3$d)"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Return to the Dashboard"
+msgstr "Tilbake til oversikten"

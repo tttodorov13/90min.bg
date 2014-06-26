@@ -1,0 +1,12 @@
+[24-04-2014 23:08:49] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.sportal.bg/uploads/rss_category_14.xml". WP HTTP Error: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[24-04-2014 23:09:20] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.sportal.bg/uploads/rss_category_14.xml". WP HTTP Error: 0: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+[23-06-2014 11:43:04] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.sportal.bg/uploads/rss_category_120.xml". WP HTTP Error: connect() timed out!
+[23-06-2014 11:43:35] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.sportal.bg/uploads/rss_category_2.xml". WP HTTP Error: connect() timed out!
+[23-06-2014 11:44:05] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.sportal.bg/uploads/rss_category_1.xml". WP HTTP Error: connect() timed out!
+

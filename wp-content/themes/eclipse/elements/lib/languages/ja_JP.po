@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elements Free\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-19 16:22:25 UTC\n"
+"PO-Revision-Date: 2014-02-11 15:17+0530\n"
+"Last-Translator: Surya <surya@cyberchimps.com>\n"
+"Language-Team: Japanese, Japan\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../init.php
+msgid "Boxes Lite"
+msgstr "ライトボックス"
+
+#: ../../init.php
+msgid "Portfolio Lite"
+msgstr "ポートフォリオLiteの"
+
+#: ../../init.php
+msgid "Post Page"
+msgstr "投稿ページ"
+
+#: ../../init.php
+msgid "Slider Lite"
+msgstr "スライダーLiteの"
+
+#: ../../init.php
+msgid "Page"
+msgstr "ページ"
+
+#: ../../init.php
+msgid "Responsive Add Features"
+msgstr "応答性の高い機能を追加します。"
+
+#: ../../init.php
+msgid "Activate Add Ons"
+msgstr "アクティブにアドオンを追加します。"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストールする： %s"
+
+#: ../../init.php
+msgid "Something went wrong with the plugin API."
+msgstr "何かプラグイン API でうまくいかなかった。"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Return to Required Plugins Installer"
+msgstr "必要なプラグインのインストーラーに戻る"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin activated successfully."
+msgstr "プラグインが正常にアクティブになります。"
+
+#: ../../init.php
+msgid "All plugins installed and activated successfully. %s"
+msgstr "すべてのプラグインをインストールし、正常にアクティブになります。%s"
+
+#: ../../parallax.php
+msgid "Parallax"
+msgstr "視差"
+
+#: ../../parallax.php
+msgid "Background image for parallax"
+msgstr "視差の背景イメージ"
+
+#: ../../parallax.php
+msgid "Enter URL or upload file"
+msgstr "URL を入力するかファイルをアップロード"
+
+#: ../../parallax.php
+msgid ""
+"Set the background image at Appearance > Background to get parallax effect "
+"on whole body."
+msgstr "外観で背景画像を設定 > 背景全身に視差効果を得るため。"
+
+#: ../../portfolio-lite.php
+msgid "First Portfolio Image"
+msgstr "Lite のポートフォリオ"
+
+#: ../../portfolio-lite.php
+msgid "First Portfolio Image Caption"
+msgstr "最初のポートフォリオの画像のキャプション"
+
+#: ../../portfolio-lite.php
+msgid "Image 1"
+msgstr "画像 1"
+
+#: ../../portfolio-lite.php
+msgid "First Porfolio Link"
+msgstr "Lite のポートフォリオ"
+
+#: ../../portfolio-lite.php
+msgid "Link URL"
+msgstr "リンク URL"
+
+#: ../../portfolio-lite.php
+msgid "Second Portfolio Image"
+msgstr "Lite のポートフォリオ"
+
+#: ../../portfolio-lite.php
+msgid "Second Portfolio Image Caption"
+msgstr "第二のポートフォリオ画像のキャプション"
+
+#: ../../portfolio-lite.php
+msgid "Image 2"
+msgstr "画像 2"
+
+#: ../../portfolio-lite.php
+msgid "Second Porfolio Link"
+msgstr "Lite のポートフォリオ"
+
+#: ../../portfolio-lite.php
+msgid "Third Portfolio Image"
+msgstr "Lite のポートフォリオ"
+
+#: ../../portfolio-lite.php
+msgid "Third Portfolio Image Caption"
+msgstr "第三のポートフォリオ画像のキャプション"
+
+#: ../../portfolio-lite.php
+msgid "Image 3"
+msgstr "画像 3"
+
+#: ../../portfolio-lite.php
+msgid "Third Porfolio Link"
+msgstr "Lite のポートフォリオ"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Portfolio Image"
+msgstr "Lite のポートフォリオ"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Portfolio Image Caption"
+msgstr "第四のポートフォリオ画像のキャプション"
+
+#: ../../portfolio-lite.php
+msgid "Image 4"
+msgstr "画像4"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Porfolio Link"
+msgstr "Lite のポートフォリオ"
+
+#: ../../portfolio-lite.php
+msgid "Portfolio Lite Options"
+msgstr "Lite のポートフォリオ"
+
+#: ../../slider-lite.php
+msgid "Slide One Image"
+msgstr "1枚の画像をスライドさせて"
+
+#: ../../slider-lite.php
+msgid "Slide One Link"
+msgstr "スライダーLiteの"
+
+#: ../../slider-lite.php
+msgid "Slide Two Image"
+msgstr "スライド2イメージ"
+
+#: ../../slider-lite.php
+msgid "Slide Two Link"
+msgstr "スライダーLiteの"
+
+#: ../../slider-lite.php
+msgid "Slide Three Image"
+msgstr "スリー画像をスライドさせ"
+
+#: ../../slider-lite.php
+msgid "Slide Three Link"
+msgstr "スライダーLiteの"
+
+#: ../../slider-lite.php
+msgid "Slider Lite Options"
+msgstr "スライダーLiteの"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install Required Plugins"
+msgstr "必要なプラグインをインストールします。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install Plugins"
+msgstr "プラグインをインストールします。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Something went wrong."
+msgstr "何か間違っていた。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Return to the dashboard"
+msgstr "ダッシュ ボードに戻る"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインをインストールし、正常にアクティブになります。%1$ s"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Dismiss this notice"
+msgstr "この通知を却下します。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "External Link"
+msgstr "外部リンク"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Private Repository"
+msgstr "プライベート リポジトリ"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Pre-Packaged"
+msgstr "事前にパッケージ"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "WordPress Repository"
+msgstr "WordPress の貯蔵場所"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Required"
+msgstr "隠密行動"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Recommended"
+msgstr "推奨"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Not Installed"
+msgstr "“iCal”がインストールされていません。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installed But Not Activated"
+msgstr "インストール済みで、アクティブになっていません。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"インストールまたはアクティブ化プラグインがないです。<a href=\"%1$s\"title="
+"\"Return to the Dashboard\"> ダッシュ ボードに戻る</a>"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Source"
+msgstr "元"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Type"
+msgstr "型"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Status"
+msgstr "状態"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install"
+msgstr "インストール"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Activate"
+msgstr "アクティブにします。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install package not available."
+msgstr "インストール パッケージは利用できません。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"<span class=\"code\"> %s</span> からパッケージのインストールをダウンロードす"
+"る …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Unpacking the package&#8230;"
+msgstr "パッケージを開梱 …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing the plugin&#8230;"
+msgstr "プラグインをインストールする …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin install failed."
+msgstr "プラグインのインストールに失敗しました。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin installed successfully."
+msgstr "プラグインは正常にインストールされました。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"インストールとアクティブ化のプロセスを開始しています。このプロセスはいくつか"
+"のホストのしばらく時間がかかりますのでご了承ください。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "%1$s installed and activated successfully."
+msgstr "%1$ s をインストールし、正常にアクティブになります。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Hide Details"
+msgstr "詳細情報を隠す"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールとライセンス認証を完了しています。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "インストールとアクティブ化プラグイン %1$ s (2$d/%3$d%)"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"インストール プロセスを開始しています。このプロセスはいくつかのホストのしばら"
+"く時間がかかりますのでご了承ください。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$ S: <strong>%2$ s</strong> をインストール中にエラーが発生しました。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "The installation of %1$s failed."
+msgstr "%1$ S のインストールに失敗しました。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "%1$s installed successfully."
+msgstr "%1$ s が正常にインストールされました。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "インストールするプラグイン %1$ s (2$d/%3$d%)"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Return to the Dashboard"
+msgstr "ダッシュ ボードに戻る"

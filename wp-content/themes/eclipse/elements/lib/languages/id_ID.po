@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elements Free\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-19 16:22:25 UTC\n"
+"PO-Revision-Date: 2014-02-11 15:17+0530\n"
+"Last-Translator: Surya <surya@cyberchimps.com>\n"
+"Language-Team: Indonesian, Indonesia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../init.php
+msgid "Boxes Lite"
+msgstr "Kotak Lite"
+
+#: ../../init.php
+msgid "Portfolio Lite"
+msgstr "Portofolio Lite"
+
+#: ../../init.php
+msgid "Post Page"
+msgstr "Posting Halaman"
+
+#: ../../init.php
+msgid "Slider Lite"
+msgstr "Slider Lite"
+
+#: ../../init.php
+msgid "Page"
+msgstr "Dance"
+
+#: ../../init.php
+msgid "Responsive Add Features"
+msgstr "Responsif menambahkan fitur"
+
+#: ../../init.php
+msgid "Activate Add Ons"
+msgstr "Mengaktifkan Add Ons"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Installing Plugin: %s"
+msgstr "Menginstal Plugin: %s"
+
+#: ../../init.php
+msgid "Something went wrong with the plugin API."
+msgstr "Sesuatu yang tidak beres dengan plugin API."
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Return to Required Plugins Installer"
+msgstr "Kembali ke diperlukan plugin Installer"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin activated successfully."
+msgstr "Plugin diaktifkan berhasil."
+
+#: ../../init.php
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Semua plugin diinstal dan diaktifkan berhasil. %s"
+
+#: ../../parallax.php
+msgid "Parallax"
+msgstr "Paralaks"
+
+#: ../../parallax.php
+msgid "Background image for parallax"
+msgstr "Gambar latar belakang untuk paralaks"
+
+#: ../../parallax.php
+msgid "Enter URL or upload file"
+msgstr "Masukkan URL atau upload file"
+
+#: ../../parallax.php
+msgid ""
+"Set the background image at Appearance > Background to get parallax effect "
+"on whole body."
+msgstr ""
+"Mengatur gambar latar belakang pada penampilan mengatakan latar belakang "
+"untuk mendapatkan efek paralaks pada seluruh tubuh."
+
+#: ../../portfolio-lite.php
+msgid "First Portfolio Image"
+msgstr "Portofolio Lite"
+
+#: ../../portfolio-lite.php
+msgid "First Portfolio Image Caption"
+msgstr "Portofolio Pertama Gambar Caption"
+
+#: ../../portfolio-lite.php
+msgid "Image 1"
+msgstr "Gambar 1"
+
+#: ../../portfolio-lite.php
+msgid "First Porfolio Link"
+msgstr "Portofolio Lite"
+
+#: ../../portfolio-lite.php
+msgid "Link URL"
+msgstr "URL Tautan"
+
+#: ../../portfolio-lite.php
+msgid "Second Portfolio Image"
+msgstr "Portofolio Lite"
+
+#: ../../portfolio-lite.php
+msgid "Second Portfolio Image Caption"
+msgstr "Portofolio kedua Gambar Caption"
+
+#: ../../portfolio-lite.php
+msgid "Image 2"
+msgstr "Gambar 2"
+
+#: ../../portfolio-lite.php
+msgid "Second Porfolio Link"
+msgstr "Portofolio Lite"
+
+#: ../../portfolio-lite.php
+msgid "Third Portfolio Image"
+msgstr "Portofolio Lite"
+
+#: ../../portfolio-lite.php
+msgid "Third Portfolio Image Caption"
+msgstr "Portofolio Ketiga Gambar Caption"
+
+#: ../../portfolio-lite.php
+msgid "Image 3"
+msgstr "Gambar 3"
+
+#: ../../portfolio-lite.php
+msgid "Third Porfolio Link"
+msgstr "Portofolio Lite"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Portfolio Image"
+msgstr "Portofolio Lite"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Portfolio Image Caption"
+msgstr "Portofolio Keempat Gambar Caption"
+
+#: ../../portfolio-lite.php
+msgid "Image 4"
+msgstr "Gambar 4"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Porfolio Link"
+msgstr "Portofolio Lite"
+
+#: ../../portfolio-lite.php
+msgid "Portfolio Lite Options"
+msgstr "Portofolio Lite"
+
+#: ../../slider-lite.php
+msgid "Slide One Image"
+msgstr "Satu slide gambar"
+
+#: ../../slider-lite.php
+msgid "Slide One Link"
+msgstr "Slider Lite"
+
+#: ../../slider-lite.php
+msgid "Slide Two Image"
+msgstr "Slide gambar dua"
+
+#: ../../slider-lite.php
+msgid "Slide Two Link"
+msgstr "Slider Lite"
+
+#: ../../slider-lite.php
+msgid "Slide Three Image"
+msgstr "Slide gambar tiga"
+
+#: ../../slider-lite.php
+msgid "Slide Three Link"
+msgstr "Slider Lite"
+
+#: ../../slider-lite.php
+msgid "Slider Lite Options"
+msgstr "Slider Lite"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install Required Plugins"
+msgstr "Menginstal plugin yang diperlukan"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install Plugins"
+msgstr "Menginstal plugin"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Something went wrong."
+msgstr "Sesuatu yang tidak beres."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Return to the dashboard"
+msgstr "Kembali ke dashboard"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Semua plugin diinstal dan diaktifkan berhasil. %1$ s"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Dismiss this notice"
+msgstr "Mengabaikan pemberitahuan ini"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "External Link"
+msgstr "Link eksternal"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Private Repository"
+msgstr "Repositori pribadi"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Pre-Packaged"
+msgstr "Pra-dikemas"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "WordPress Repository"
+msgstr "WordPress repositori"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Required"
+msgstr "Diperlukan"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Recommended"
+msgstr "Direkomendasikan"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Not Installed"
+msgstr "Tidak diinstal"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installed But Not Activated"
+msgstr "Diinstal tetapi tidak diaktifkan"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Tidak ada plugin untuk menginstal atau mengaktifkan. <a href=\"%1$s\" title="
+"\"Return to the Dashboard\"> kembali ke Dashboard</a>"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Source"
+msgstr "Skop"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Type"
+msgstr "Tipe"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Status"
+msgstr "&Tetapan"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install"
+msgstr "Pasang"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install package not available."
+msgstr "Instal paket tidak tersedia."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Men-download menginstal paket dari <span class=\"code\"> %s</span> …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Unpacking the package&#8230;"
+msgstr "Membongkar paket …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing the plugin&#8230;"
+msgstr "Menginstal plugin …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin install failed."
+msgstr "Menginstal plugin gagal."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin installed successfully."
+msgstr "Plugin berhasil diinstal."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin activation failed."
+msgstr "Aktivasi plugin gagal."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Proses instalasi dan aktivasi dimulai. Proses ini dapat berlangsung "
+"sementara pada beberapa host, jadi harap bersabar."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "%1$s installed and activated successfully."
+msgstr "%1$ s terinstal dan diaktifkan berhasil."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Show Details"
+msgstr "Tampilkan Detail"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Hide Details"
+msgstr "Sembunyikan detail"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All installations and activations have been completed."
+msgstr "Semua instalasi dan aktivasi telah selesai."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Menginstal dan mengaktifkan Plugin %1$ s (% 2$d/%3$d)"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Proses instalasi dimulai. Proses ini dapat berlangsung sementara pada "
+"beberapa host, jadi harap bersabar."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Terjadi kesalahan ketika menginstal %1$ s: <strong>%2$ s</strong>."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "The installation of %1$s failed."
+msgstr "Instalasi %1$ s gagal."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "%1$s installed successfully."
+msgstr "%1$ s berhasil diinstal."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All installations have been completed."
+msgstr "Semua instalasi telah selesai."
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Menginstal Plugin %1$ s (% 2$d/%3$d)"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Return to the Dashboard"
+msgstr "Kembali ke Dashboard"

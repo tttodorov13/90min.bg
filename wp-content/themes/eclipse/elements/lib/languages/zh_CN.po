@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elements Free\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-19 16:22:25 UTC\n"
+"PO-Revision-Date: 2014-02-11 15:17+0530\n"
+"Last-Translator: Surya <surya@cyberchimps.com>\n"
+"Language-Team: Chinese, China\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../init.php
+msgid "Boxes Lite"
+msgstr "盒子精简版"
+
+#: ../../init.php
+msgid "Portfolio Lite"
+msgstr "相册精简版"
+
+#: ../../init.php
+msgid "Post Page"
+msgstr "发布页面"
+
+#: ../../init.php
+msgid "Slider Lite"
+msgstr "幻灯片精简版"
+
+#: ../../init.php
+msgid "Page"
+msgstr "页面"
+
+#: ../../init.php
+msgid "Responsive Add Features"
+msgstr "响应中添加功能"
+
+#: ../../init.php
+msgid "Activate Add Ons"
+msgstr "激活加载项"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Installing Plugin: %s"
+msgstr "安装插件： %s"
+
+#: ../../init.php
+msgid "Something went wrong with the plugin API."
+msgstr "出了错与插件的 API。"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Return to Required Plugins Installer"
+msgstr "返回到所需的插件安装程序"
+
+#: ../../init.php ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin activated successfully."
+msgstr "成功激活的插件。"
+
+#: ../../init.php
+msgid "All plugins installed and activated successfully. %s"
+msgstr "所有的插件安装并成功激活。%s"
+
+#: ../../parallax.php
+msgid "Parallax"
+msgstr "视差"
+
+#: ../../parallax.php
+msgid "Background image for parallax"
+msgstr "视差的背景图像"
+
+#: ../../parallax.php
+msgid "Enter URL or upload file"
+msgstr "输入URL或上传文件"
+
+#: ../../parallax.php
+msgid ""
+"Set the background image at Appearance > Background to get parallax effect "
+"on whole body."
+msgstr "在外观设置背景图像 > 背景要获得在整个身体上的视差效果。"
+
+#: ../../portfolio-lite.php
+msgid "First Portfolio Image"
+msgstr "投资组合简装"
+
+#: ../../portfolio-lite.php
+msgid "First Portfolio Image Caption"
+msgstr "第一阵容图片说明"
+
+#: ../../portfolio-lite.php
+msgid "Image 1"
+msgstr "图片1"
+
+#: ../../portfolio-lite.php
+msgid "First Porfolio Link"
+msgstr "投资组合简装"
+
+#: ../../portfolio-lite.php
+msgid "Link URL"
+msgstr "链接URL"
+
+#: ../../portfolio-lite.php
+msgid "Second Portfolio Image"
+msgstr "投资组合简装"
+
+#: ../../portfolio-lite.php
+msgid "Second Portfolio Image Caption"
+msgstr "第二个组合图片说明"
+
+#: ../../portfolio-lite.php
+msgid "Image 2"
+msgstr "图片2"
+
+#: ../../portfolio-lite.php
+msgid "Second Porfolio Link"
+msgstr "投资组合简装"
+
+#: ../../portfolio-lite.php
+msgid "Third Portfolio Image"
+msgstr "投资组合简装"
+
+#: ../../portfolio-lite.php
+msgid "Third Portfolio Image Caption"
+msgstr "第三组合图片说明"
+
+#: ../../portfolio-lite.php
+msgid "Image 3"
+msgstr "图片 3"
+
+#: ../../portfolio-lite.php
+msgid "Third Porfolio Link"
+msgstr "投资组合简装"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Portfolio Image"
+msgstr "投资组合简装"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Portfolio Image Caption"
+msgstr "第四组合图片说明"
+
+#: ../../portfolio-lite.php
+msgid "Image 4"
+msgstr "图片4"
+
+#: ../../portfolio-lite.php
+msgid "Fourth Porfolio Link"
+msgstr "投资组合简装"
+
+#: ../../portfolio-lite.php
+msgid "Portfolio Lite Options"
+msgstr "投资组合简装"
+
+#: ../../slider-lite.php
+msgid "Slide One Image"
+msgstr "将一个图片"
+
+#: ../../slider-lite.php
+msgid "Slide One Link"
+msgstr "滑块精简版"
+
+#: ../../slider-lite.php
+msgid "Slide Two Image"
+msgstr "第二张幻灯片图片"
+
+#: ../../slider-lite.php
+msgid "Slide Two Link"
+msgstr "滑块精简版"
+
+#: ../../slider-lite.php
+msgid "Slide Three Image"
+msgstr "第三张幻灯片图片"
+
+#: ../../slider-lite.php
+msgid "Slide Three Link"
+msgstr "滑块精简版"
+
+#: ../../slider-lite.php
+msgid "Slider Lite Options"
+msgstr "滑块精简版"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install Required Plugins"
+msgstr "安装所需的插件"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Something went wrong."
+msgstr "出了错。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Return to the dashboard"
+msgstr "返回到仪表板"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有的插件安装并成功激活。%1$ s"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Dismiss this notice"
+msgstr "解雇此通知"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "External Link"
+msgstr "外部链接"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Private Repository"
+msgstr "私人存储库"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Pre-Packaged"
+msgstr "预打包"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "WordPress Repository"
+msgstr "WordPress 存储库"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Required"
+msgstr "必需"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Recommended"
+msgstr "推荐"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Not Installed"
+msgstr "未安装"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installed But Not Activated"
+msgstr "安装但没有激活"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"没有安装或激活的插件。<a href=\"%1$s\"title=\"Return to the Dashboard\"> 返回"
+"到仪表板</a>"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin"
+msgstr "插件"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Source"
+msgstr "源"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Type"
+msgstr "类型"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Status"
+msgstr "状态"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install"
+msgstr "安装"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Activate"
+msgstr "激活"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Install package not available."
+msgstr "安装包没有可供选择。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "从 <span class=\"code\"> %s</span> 下载安装包 …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Unpacking the package&#8230;"
+msgstr "解压缩包 …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing the plugin&#8230;"
+msgstr "安装插件 …"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin install failed."
+msgstr "插件安装失败。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin installed successfully."
+msgstr "已成功安装的插件。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Plugin activation failed."
+msgstr "插件激活失败。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"安装和激活过程已经开始。此过程可能需要一段时间在一些主机上，所以请耐心等待。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "%1$s installed and activated successfully."
+msgstr "%1$ s 安装并成功激活。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Show Details"
+msgstr "显示细节"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Hide Details"
+msgstr "隐藏细节"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All installations and activations have been completed."
+msgstr "已完成所有的安装和激活。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安装和激活插件 %1$ s (%2$d/%3$d)"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "开始安装过程。此过程可能需要一段时间在一些主机上，所以请耐心等待。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装 %1$ s: <strong>%2$ s</strong> 时出现错误。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "The installation of %1$s failed."
+msgstr "%1$ S 的安装失败。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "%1$s installed successfully."
+msgstr "%1$ s 安装成功。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "All installations have been completed."
+msgstr "已完成所有安装。"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "安装插件 %1$ s (%2$d/%3$d)"
+
+#: ../../inc/class-tgm-plugin-activation.php
+msgid "Return to the Dashboard"
+msgstr "返回到仪表板"

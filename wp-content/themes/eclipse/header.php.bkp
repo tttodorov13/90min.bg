@@ -696,14 +696,5 @@ menu-item-type-post_type menu-item-object-page menu-item-67">
 </div>
 <!-- main header -->
 
-<!-- grand banner -->
-<div class="container-full-width" style="padding-bottom:10px;">
-	<div class="container">
-		<div class="container-fluid" style="text-align: center;">
-			<img style="width: 728px; height:90px;" src="http://62.44.109.7/projects/forumfootball/wp-content/uploads/2014/06/TS1.png" />
-		</div>
-	</div>
-</div>
-<!-- grand banner -->
 
 <?php do_action( 'cyberchimps_before_wrapper' ); ?>

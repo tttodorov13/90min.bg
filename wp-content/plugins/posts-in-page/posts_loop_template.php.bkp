@@ -17,7 +17,7 @@ foreach ( $attachments as $attachment_id => $attachment ) {
 
 		<!-- This is the output of the post TITLE -->
 		<h2 class="entry-title">
-			<?php the_title(); ?>
+			<a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
 		</h2>
 
 		<!-- This is the output of the EXCERPT -->

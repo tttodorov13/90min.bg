@@ -13,7 +13,7 @@
  * @link     http://www.cyberchimps.com/
  */
 ?>
-	<!DOCTYPE html>
+<!DOCTYPE html>
 	<!--[if lt IE 7]>
 	<html class="ie ie6 lte9 lte8 lte7" <?php language_attributes(); ?>>
 	<![endif]-->
@@ -119,7 +119,7 @@
                 background: #fff;
                 border: 1px solid #000;
                 width: 930px !important;
-                left: -26px;
+                left: -172px;
                 top: 40px;
                 height: 250px;
             }
@@ -145,18 +145,6 @@
                     document.getElementById('menu-item-71').onmouseout = function() {
                     document.getElementById('navbar-dropdown-speculations').style.display = 'none';
                     }
-                    document.getElementById('menu-item-69').onmouseover = function() {
-                    document.getElementById('navbar-dropdown-championships').style.display = 'block';
-                    }
-                    document.getElementById('menu-item-69').onmouseout = function() {
-                    document.getElementById('navbar-dropdown-championships').style.display = 'none';
-                    }
-                    document.getElementById('menu-item-70').onmouseover = function() {
-                    document.getElementById('navbar-dropdown-articles').style.display = 'block';
-                    }
-                    document.getElementById('menu-item-70').onmouseout = function() {
-                    document.getElementById('navbar-dropdown-articles').style.display = 'none';
-                    }
                     document.getElementById('menu-item-67').onmouseover = function() {
                     document.getElementById('navbar-dropdown-outthepitch').style.display = 'block';
                     }
@@ -181,79 +169,6 @@ if (isset($query['page_id'])) {
                                                         <li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-117
 <?php if($page_id == "") echo " current_page_item active "; ?> menu-item-119">
                                                             <a href="http://62.44.109.7/projects/forumfootball/">Начало</a>
-                                                            <div id="navbar-dropdown-homepage" class="container navbar-dropdown-container" style="display: none;">
-                                                                <div class="nav-collapse collapse">
-                                                                    <div class="menu-%d0%bd%d0%b0%d0%b2%d0%b8%d0%b3%d0%b0%d1%86%d0%b8%d1%8f-container">
-                                                                        <div class="box span8 al"
-                                                                             style="border: 1px solid #888; height: 250px;">
-                                                                            <div class="span11 h80" style="padding-left: 10px;">
-                                                                                <div class="span3">
-                                                                                    <a href="http://www.toto.bg/" class="box-link">
-                                                                                        <br>
-                                                                                        <img class="box-image" src="http://62.44.109.7/projects/forumfootball/wp-content/uploads/2014/04/00480543.jpg">				                                                                                                            </a>
-                                                                                </div>
-                                                                                <div class="span8">
-                                                                                    <div class="span7">
-<br/>
-<h5>Какво трябва да напра</h5>
-<p>От ръководството на..
-</p></div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="span11 h80" style="padding-left: 10px; margin-left: 0px;">
-                                                                                <div class="span3">
-                                                                                    <a href="http://www.toto.bg/" class="box-link">
-                                                                                        <br>
-                                                                                        <img class="box-image" src="http://62.44.109.7/projects/forumfootball/wp-content/uploads/2014/04/00480499.jpg">				                                                                                                            </a>
-                                                                                </div>
-                                                                                <div class="span8">
-<br/>
-                                                                                    <h5>„ЦСКА Завинаги“ налива</h5>
-<p>От „ЦСКА Завинаги“..
-</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="box span4 al">
-                                                                            <div class="span11 h80" style="padding-left: 10px;">
-                                                                                <h5>Най-популярни</h5>
-                                                                                <div class="span5">
-                                                                                    <a href="http://www.toto.bg/" class="box-link">
-                                                                                        <p>Premier League</p>
-                                                                                    </a>
-                                                                                    <a href="http://www.toto.bg/" class="box-link">
-                                                                                        <p>UEFA Champions League</p>
-                                                                                    </a>
-                                                                                    <a href="http://www.toto.bg/" class="box-link">
-                                                                                        <p>Europa League</p>
-                                                                                    </a>
-                                                                                    <a href="http://www.toto.bg/" class="box-link">
-                                                                                        <p>World Cup</p>
-                                                                                    </a>
-                                                                                    <a href="http://www.toto.bg/" class="box-link">
-                                                                                        <p>Barcelona</p>
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="span5">
-                                                                                    <a href="http://www.toto.bg/" class="box-link">
-                                                                                        <p>David Beckham</p>
-                                                                                    </a>
-                                                                                    <a href="http://www.toto.bg/" class="box-link">
-                                                                                        <p>Manchester United</p>
-                                                                                    </a>
-                                                                                    <a href="http://www.toto.bg/" class="box-link">
-                                                                                        <p>Liverpool</p>
-                                                                                    </a>
-                                                                                    <a href="http://www.toto.bg/" class="box-link">
-                                                                                        <p>Arsenal</p>
-                                                                                    </a>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>    
-                                                            </div>
-                                                            <!-- homepage -->
                                                         </li>
 
                                                         <li id="menu-item-75" class="menu-item 
@@ -411,7 +326,7 @@ menu-item-type-post_type menu-item-object-page menu-item-71">
                                                             </div>
                                                             <!-- speculations -->
                                                         </li>
-
+<?php /*
                                                         <li id="menu-item-69" class="menu-item
 <?php if($page_id == "40") echo " current_page_item active "; ?>
 menu-item-type-post_type menu-item-object-page menu-item-69">
@@ -567,12 +482,12 @@ menu-item-type-post_type menu-item-object-page menu-item-70">
                                                             </div>
                                                             <!-- articles -->
                                                         </li>
-
+*/ ?>
                                                         <li id="menu-item-67" class="menu-item
 <?php if($page_id == "44") echo " current_page_item active "; ?>
 menu-item-type-post_type menu-item-object-page menu-item-67">
                                                             <a href="http://62.44.109.7/projects/forumfootball/?page_id=44">Извън терена</a>
-                                                            <div id="navbar-dropdown-outthepitch" class="container navbar-dropdown-container" style="display: none;">
+								<div id="navbar-dropdown-outthepitch" class="container navbar-dropdown-container" style="display: none;">
                                                                 <div class="nav-collapse collapse">
                                                                     <div class="menu-%d0%bd%d0%b0%d0%b2%d0%b8%d0%b3%d0%b0%d1%86%d0%b8%d1%8f-container">
                                                                         <div class="box span8 al"
@@ -581,7 +496,7 @@ menu-item-type-post_type menu-item-object-page menu-item-67">
                                                                                 <div class="span3">
                                                                                     <a href="http://www.toto.bg/" class="box-link">
                                                                                         <br>
-                                                                                        <img class="box-image" src="http://62.44.109.7/projects/forumfootball/wp-content/uploads/2014/04/00480594.jpg">				                                                                                                            </a>
+                                                                                        <img class="box-image" src="http://62.44.109.7/projects/forumfootball/wp-content/uploads/2014/04/00480611.jpg">				                                                                                                            </a>
                                                                                 </div>
                                                                                 <div class="span8">
                                                                                     <br/>
@@ -643,8 +558,8 @@ menu-item-type-post_type menu-item-object-page menu-item-67">
                                                                     </div>
                                                                 </div>       
                                                             </div>
-                                                            <!-- outthepitch -->
-                                                        </li>
+                                                            <!-- outthepitch -->                                                        
+							</li>
                                                     </ul>
                                                 </div>
                                                 
@@ -697,10 +612,10 @@ menu-item-type-post_type menu-item-object-page menu-item-67">
 <!-- main header -->
 
 <!-- grand banner -->
-<div class="container-full-width" style="padding-bottom:10px;">
+<div id="grand_banner_header" class="container-full-width">
 	<div class="container">
 		<div class="container-fluid" style="text-align: center;">
-			<img style="width: 728px; height:90px;" src="http://62.44.109.7/projects/forumfootball/wp-content/uploads/2014/06/TS1.png" />
+			<img style="width: 728px; height:90px;" src="http://62.44.109.7/projects/forumfootball/wp-content/uploads/2014/06/Fotor062964827.png" />
 		</div>
 	</div>
 </div>

@@ -21,11 +21,14 @@ foreach ( $attachments as $attachment_id => $attachment ) {
 		</h2>
 
 		<!-- This is the output of the EXCERPT -->
+		<?php /*
+		
 		<div class="entry-summary">
 			<?php the_excerpt(); 
 			?>
 		</div>
-
+		*/ ?>
+		
 		<!-- This is the output of the META information -->
 		<div class="entry-utility">
 			<?php if ( count( get_the_category() ) ) : ?>

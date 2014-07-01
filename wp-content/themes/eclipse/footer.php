@@ -24,38 +24,11 @@ if( cyberchimps_get_option( 'footer_show_toggle' ) == '1' ) : ?>
 					<div id="footer-widget-container" class="span12">
 						<div class="row-fluid">
 							<?php if( !function_exists( 'dynamic_sidebar' ) || !dynamic_sidebar( 'cyberchimps-footer-widgets' ) ) : ?>
-								<aside class="widget-container span3">
-									<h3 class="widget-title"><?php 
-_e( 'Pages', 'eclipse' ); 
-?></h3>
+								<aside class="widget-container span12">
 									<ul>
-<?php wp_list_pages( 'depth' ); ?>
-									</ul>
-								</aside>
-
-								<aside class="widget-container span3">
-									<h3 class="widget-title"><?php _e( 'Archives', 'eclipse' ); ?></h3>
-									<ul>
-										<?php wp_get_archives( 'type=monthly' ); ?>
-									</ul>
-								</aside>
-
-								<aside class="widget-container span3">
-									<h3 class="widget-title"><?php _e( 'Categories', 'eclipse' ); ?></h3>
-									<ul>
-										<?php wp_list_categories( 'show_count=1&title_li=' ); ?>
-									</ul>
-								</aside>
-
-								<aside class="widget-container span3">
-									<h3 class="widget-title"><?php _e( 'WordPress', 'eclipse' ); ?></h3>
-									<ul>
-										<?php wp_register(); ?>
-										<li><?php wp_loginout(); ?></li>
-										<li><a href="<?php echo esc_url( __( 'http://wordpress.org/', 'eclipse' ) ); ?>" target="_blank"
-										       title="<?php esc_attr_e( 'Powered by WordPress, state-of-the-art semantic personal publishing platform.', 'eclipse' ); ?>"> <?php _e( 'WordPress', 'eclipse' ); ?></a>
-										</li>
-										<?php wp_meta(); ?>
+<li style="text-align: center;">
+									Copyright © 2014 90min.BG. Всички права запазени							
+</li>
 									</ul>
 								</aside>
 

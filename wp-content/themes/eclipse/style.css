@@ -240,14 +240,14 @@ header #search #searchform {
 }
 
 ul.nav > li:hover {
-	background: #b60002 !important; /* Old browsers */
-	background: -moz-linear-gradient(top, #b60002 94%, #ffffff 95%) !important; /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(94%,#b60002), color-stop(95%,#ffffff)) !important; /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top, #b60002 94%,#ffffff 95%) !important; /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top, #b60002 94%,#ffffff 95%) !important; /* Opera 11.10+ */
-	background: -ms-linear-gradient(top, #b60002 94%,#ffffff 95%) !important; /* IE10+ */
-	background: linear-gradient(to bottom, #b60002 94%,#ffffff 95%) !important; /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b60002', endColorstr='#ffffff',GradientType=0 ) !important; /* IE6-9 */
+	background: #ce3737; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ce3737 98%, #ffffff 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(98%,#ce3737), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ce3737 98%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ce3737 98%,#ffffff 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ce3737 98%,#ffffff 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #ce3737 98%,#ffffff 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ce3737', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
 }
 
 /* ttt custom ends */
@@ -1300,7 +1300,28 @@ div.entry-summary > div.post.hentry h2.entry-title {
 }
 
 div.item.active > a > img {
-	height: 300px !important;
+	height: 510px !important;
+	width: 922px;
+}
+
+div#main_header.container-full-width {
+	margin-bottom: 5px;
+}
+
+div#grand_banner_header {
+	padding-bottom: 5px;
+}
+
+div.navbar-inner {
+	padding-left: 18%;
+}
+
+div.boxes > div.box > div {
+	margin-left: 0px;
+}
+
+article.post, article.page, article.attachment {
+	border-bottom: none;
 }
 
 /*==================================== TWITTER =====================================================*/
